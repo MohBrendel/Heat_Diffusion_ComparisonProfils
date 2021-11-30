@@ -1,0 +1,8 @@
+The analytique time is 243.87907415045885 sc and 231.4 sc for numerical time for Gaussienne
+The analytique time is 237.19304560139508 sc and 224.70000000000002 sc for numerical time for Tente
+The analytique time is 198.06891296827 sc and 187.9 sc for numerical time for Sinus
+The analytique time is 216.57311696697957 sc and 205.4 sc for numerical time for Sinus^2
+The analytique time is 205.5807303691557 sc and 195.0 sc for numerical time for Absolu
+The analytique time is 194.5993482189907 sc and 184.60000000000002 sc for numerical time for 2nd_degree
+The analytique time is 255.26377040675197 sc and 0.0 sc for numerical time for Lorentzienne
+The analytique time is 324.9471847743655 sc and 214.5 sc for numerical time for Autre_Discontinue
